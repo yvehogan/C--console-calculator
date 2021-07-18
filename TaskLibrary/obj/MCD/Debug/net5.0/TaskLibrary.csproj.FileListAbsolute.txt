@@ -1,0 +1,12 @@
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\bin\MCD\Debug\net5.0\TaskLibrary.deps.json
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\bin\MCD\Debug\net5.0\TaskLibrary.dll
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\bin\MCD\Debug\net5.0\ref\TaskLibrary.dll
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\bin\MCD\Debug\net5.0\TaskLibrary.pdb
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\TaskLibrary.csproj.AssemblyReference.cache
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\TaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\TaskLibrary.AssemblyInfoInputs.cache
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\TaskLibrary.AssemblyInfo.cs
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\TaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\TaskLibrary.dll
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\ref\TaskLibrary.dll
+C:\Users\evelyn\Desktop\Calculator-task\TaskLibrary\obj\MCD\Debug\net5.0\TaskLibrary.pdb

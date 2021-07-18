@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Week1Task/1.0.0": {
+        "dependencies": {
+          "TaskLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Week1Task.dll": {}
+        }
+      },
+      "TaskLibrary/1.0.0": {
+        "runtime": {
+          "TaskLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week1Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
